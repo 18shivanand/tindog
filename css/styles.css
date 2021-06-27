@@ -182,7 +182,7 @@ p
     margin: 10px 20px;
 }
 
-@media (min-width: 368px)
+@media (max-width: 760px)
 {
     #title
     {
